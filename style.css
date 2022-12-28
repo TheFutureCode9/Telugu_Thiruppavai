@@ -38,7 +38,7 @@ h1{
   
     
   .container .music-container .box{
-    height:500px; 
+    height:550px; 
     width:1000px;
     display: flex;
     align-items: center;
@@ -49,9 +49,8 @@ h1{
     margin: 2rem;  
   }
   .container .music-container .box .image img{
-    height: 45em; 
-    width:30em; 
-    margin-left: 35em;
+    height:500px; 
+    width:1000px; 
   }
 
     .container .music-container .box .music{
